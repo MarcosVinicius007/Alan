@@ -32,7 +32,7 @@ li {
 }
 
 #banner {
-    background-image: url(./img/ArtGlassBanner.jpg);
+    background-image: url(./ArtGlassBanner.jpg);
     background-position: 50% 50%;
     background-size: cover;
     width: 100%;
@@ -141,11 +141,11 @@ h2:hover {
 }
 
 .card-layout1 {
-    background-image: url("./img/ArtGlassCard1.jpg");
+    background-image: url("./ArtGlassCard1.jpg");
 }
 
 .card-layout2 {
-    background-image: url("./img/ArtGlassCard2.jpg");
+    background-image: url("./ArtGlassCard2.jpg");
     order: 2; /* Colocar a imagem à direita */
 }
 
@@ -154,7 +154,7 @@ h2:hover {
 }
 
 .card-layout3 {
-    background-image:url("./img/ArtGlassCard3.jpg")
+    background-image:url("./ArtGlassCard3.jpg")
 }
 .card-layout4 {
     background-image: url("./img/ArtGlassCard4.jpg");
