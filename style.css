@@ -157,7 +157,7 @@ h2:hover {
     background-image:url("./ArtGlassCard3.jpg")
 }
 .card-layout4 {
-    background-image: url("./img/ArtGlassCard4.jpg");
+    background-image: url("./ArtGlassCard4.jpg");
     order: 2; /* Colocar a imagem à direita */
 }
 
